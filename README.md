@@ -2,7 +2,7 @@
 
 
 Abfragen eines KO-Wertes:
-http://<IP-Adresse>/remote/?login=<Login>&pass=<Passwort>&koid=<KO-ID>
+http://192.168.7.7/remote/?login=remote&pass=remote&koid=1002
 
 Setzen eines KO-Wertes:
-http://<IP-Adresse>/remote/?login=<Login>&pass=<Passwort>&koid=<KO-ID>&kovalue=<KO-Wert>
+http://192.168.7.7/remote/?login=remote&pass=remote&koid=1002&kovalue=1
